@@ -28,6 +28,7 @@ async function cargarProductos() {
       const productosjson = await response.json();
       productos = Array.from(productosjson);
       crearArticle(productos);
+      alert("tengo "+productos.length);
       console.log(productos);
     } else {
       console.error('Error al cargar el archivo JSON');
