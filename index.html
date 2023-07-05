@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="./css/styles.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <script src="./js/script.js" defer></script>
+  <script src="./js/script.js" type="module" defer></script>
 
   <title>Hada Mistika</title>
 </head>
@@ -27,24 +27,20 @@
           <a class="nav-link active" aria-current="page" href="#">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Enlace</a>
+          <a class="nav-link" href="https://saphirus.com.ar/catalogo-online/">Shapirus Oficial</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
-            Dropdown
+            Productos
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Acción</a></li>
-            <li><a class="dropdown-item" href="#">Otra acción</a></li>
-            <li>
-              <hr class="dropdown-divider">
-            </li>
-            <li><a class="dropdown-item" href="#">Algo más aquí</a></li>
+            <li><a class="dropdown-item" href="#">Aromatizantes Textiles</a></li>
+            <li><a class="dropdown-item" href="#">Aerosoles Aromatizantes</a></li>
+            <li><a class="dropdown-item" href="#">Aerosoles Automatico</a></li>
+            <li><a class="dropdown-item" href="#">Aromatizantes para Autos</a></li>
+            <li><a class="dropdown-item" href="#">Difusores de Varillas</a></li>
           </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled">Deshabilitado</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
@@ -115,60 +111,25 @@
           </div>
         </div>
       </div>
-      <a id="control-prev" class="carousel-control-prev carousel-control-start bg-transparent" data-bs-target="#recipeCarousel" href="#recipeCarousel" role="button" data-bs-slide="prev">
+      <a id="control-prev" class="carousel-control-prev carousel-control-start bg-transparent"
+        data-bs-target="#recipeCarousel" href="#recipeCarousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       </a>
-      <a id="control-next" class="carousel-control-next carousel-control-end bg-transparent" data-bs-target="#recipeCarousel" href="#recipeCarousel" role="button" data-bs-slide="next">
+      <a id="control-next" class="carousel-control-next carousel-control-end bg-transparent"
+        data-bs-target="#recipeCarousel" href="#recipeCarousel" role="button" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
       </a>
     </div>
-    
-   
-    <!-- <button class="carousel-control-prev" type="button" data-bs-target="#recipeCarousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Anterior</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#recipeCarousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Siguiente</span>
-    </button>
-     -->
   </div>
 </div>
-
-<!-- <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true"
-      aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="10000">
-      <div class="d-flex align-items-center justify-content-center">
-        <img src="./images/textiles.jpg" class="d-block w-100 carousel-image" alt="...">
-      </div>
-    </div>
-    <div class="carousel-item" data-bs-interval="2000">
-      <div class="d-flex align-items-center justify-content-center">
-        <img src="./images/varillas.jpg" class="d-block w-100" alt="...">
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="d-flex align-items-center justify-content-center">
-        <img src="./images/home-spray.jpg" class="d-block w-100" alt="...">
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Anterior</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Siguiente</span>
-  </button>
-</div> -->
+<div class="divider"></div>
+<nav class="nav  border border-5 rounded shadow-lg p-3 mb-5 bg-transparent rounded">
+  <a class="nav-link active" aria-current="page" href="#">Activo</a>
+  <a class="nav-link" href="#">Enlace</a>
+  <a class="nav-link" href="#">Enlace</a>
+  <a class="nav-link disabled">Deshabilitado</a>
+</nav>
+<section id="seccion-cards"></section>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
   integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>

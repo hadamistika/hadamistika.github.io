@@ -1,0 +1,659 @@
+    [
+    {
+      "id": 1,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "Frutos Patagonicos",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 2,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "Maracuya",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 3,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "Green",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 4,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "Duvet",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 5,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "verbena",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 6,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "jazmin",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 7,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "magnolia y fresia",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 8,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "mery",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 9,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "bamboo",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 10,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "angel",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 11,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "bebe",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 12,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "linah",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 13,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "papaya",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 14,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "hawai",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 15,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "rocio",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 16,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "lola",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 17,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "coco vai",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 18,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "tropical",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 19,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "lavanda",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 20,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "cony",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 21,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "vainilla",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 22,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "flores blancas",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 23,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "bubblegum",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 24,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "uva",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 25,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "limon",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 26,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "teakwood",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 27,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "frutilla",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 28,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "due",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 29,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "ghost",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 30,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "pomelo rosado",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 31,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "opium",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 32,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "bad man",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 33,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "pure xs",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 34,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "adventure",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 35,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "cereza malbec",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 36,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "antitabaco",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 37,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "palace",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 38,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "limon dulce y vainilla",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 39,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "new york",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 40,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "male",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 41,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "lucy",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 42,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "olympíc",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 43,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "marino",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 44,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "oriente",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 45,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "beauty",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 46,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "wanted",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 47,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "naranja pimienta",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 48,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "lilas",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 49,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "bella",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 50,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "cristobal",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 51,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "pitanga",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 52,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "paula",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 53,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "apple",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 54,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "man",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 55,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "invicto",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 56,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "polo",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 57,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "flowers",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 58,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "apolo",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 59,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "lady",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 60,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "nina",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 61,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "one millon",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 62,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "tokyo",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 63,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "faren",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 64,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "daniel",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 65,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "blue",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 66,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "guarana",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 67,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "patio",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 68,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "amour",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 69,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "etiqueta",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 70,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "violetas",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 71,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "rosas",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 72,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "indiana",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    },
+    {
+      "id": 73,
+      "marca_producto": "shapirus",
+      "tipo_producto": "textiles",
+      "fragancia_producto": "citrus",
+      "uso_producto": "ropa",
+      "precio_producto": 710,
+      "tipo_fragancia": "frutal"
+    }
+  ]
