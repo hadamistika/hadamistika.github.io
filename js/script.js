@@ -7,7 +7,7 @@ const items = document.querySelectorAll(".carousel .carousel-item");
 const itemsProductos = document.querySelectorAll("#collapseProductos .list-group-item");
 const itemsUsos = document.querySelectorAll("#collapseUsos .list-group-item");
 const itemsProductosDropdown = document.querySelectorAll(".dropdown-item");
-const carritoBoton = document.querySelector("#carritoBoton");
+const btnComprar = document.querySelector("#btnComprar");
 let productos = [];
 let productosFiltrados = [];
 
@@ -190,6 +190,8 @@ function FiltrarProductosDestacados(){
   productosFiltrados = productos.filter(producto => productosDestacados.includes(producto.id_producto));
   return productosFiltrados;
 }
+
+
 
 
 

@@ -90,5 +90,31 @@ function vaciarCarrito() {
   renderizarCarrito();
 }
 
+// Obtén el número de teléfono al que deseas enviar los mensajes
+const phoneNumber = "+5491132283002";
+
+// Función para generar el mensaje de pedido
+const generarMensajePedido = () => {
+  let mensaje = "Hola soy ... queria hacer un pedido de los siguientes productos:\n";
+    carrito.forEach((idProducto) => {
+      const productoEncontrado = productos.find((producto) => producto.id_producto === idProducto);
+      if (productoEncontrado) {
+        mensaje += `- ${productoEncontrado.tipo_producto} (${productoEncontrado.fragancia_producto})\n`;
+      }
+  });
+  
+  return mensaje;
+};
+
+
+// Agrega el evento click al botón "comprar"
+btnComprar.addEventListener("click", () => {
+
+  const mensajePedido = generarMensajePedido();
+  const mensajeCodificado = encodeURIComponent(mensajePedido);
+  const enlaceWhatsapp = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${mensajeCodificado}`;
+  window.open(enlaceWhatsapp);
+});
+
 // Eventos
 DOMbotonVaciar.addEventListener("click", vaciarCarrito);
