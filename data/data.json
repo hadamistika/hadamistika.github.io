@@ -1,659 +1,1802 @@
-    [
-    {
-      "id": 1,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "Frutos Patagonicos",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 2,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "Maracuya",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 3,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "Green",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 4,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "Duvet",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 5,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "verbena",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 6,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "jazmin",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 7,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "magnolia y fresia",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 8,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "mery",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 9,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "bamboo",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 10,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "angel",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 11,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "bebe",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 12,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "linah",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 13,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "papaya",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 14,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "hawai",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 15,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "rocio",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 16,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "lola",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 17,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "coco vai",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 18,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "tropical",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 19,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "lavanda",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 20,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "cony",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 21,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "vainilla",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 22,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "flores blancas",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 23,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "bubblegum",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 24,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "uva",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 25,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "limon",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 26,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "teakwood",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 27,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "frutilla",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 28,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "due",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 29,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "ghost",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 30,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "pomelo rosado",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 31,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "opium",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 32,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "bad man",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 33,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "pure xs",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 34,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "adventure",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 35,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "cereza malbec",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 36,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "antitabaco",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 37,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "palace",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 38,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "limon dulce y vainilla",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 39,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "new york",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 40,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "male",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 41,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "lucy",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 42,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "olympíc",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 43,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "marino",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 44,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "oriente",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 45,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "beauty",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 46,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "wanted",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 47,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "naranja pimienta",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 48,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "lilas",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 49,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "bella",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 50,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "cristobal",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 51,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "pitanga",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 52,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "paula",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 53,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "apple",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 54,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "man",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 55,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "invicto",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 56,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "polo",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 57,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "flowers",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 58,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "apolo",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 59,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "lady",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 60,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "nina",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 61,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "one millon",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 62,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "tokyo",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 63,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "faren",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 64,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "daniel",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 65,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "blue",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 66,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "guarana",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 67,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "patio",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 68,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "amour",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 69,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "etiqueta",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 70,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "violetas",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 71,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "rosas",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 72,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "indiana",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    },
-    {
-      "id": 73,
-      "marca_producto": "shapirus",
-      "tipo_producto": "textiles",
-      "fragancia_producto": "citrus",
-      "uso_producto": "ropa",
-      "precio_producto": 710,
-      "tipo_fragancia": "frutal"
-    }
-  ]
+[
+  {
+    "id_producto": 1,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "Frutos Patagonicos",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 2,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "Maracuya",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 3,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "Green",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 4,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "Duvet",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 5,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "verbena",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 6,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "jazmin",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 7,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "magnolia y fresia",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 8,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "mery",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 9,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "bamboo",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 10,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "angel",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 11,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "bebe",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 12,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "linah",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 13,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "papaya",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 14,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "hawai",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 15,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "rocio",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 16,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "lola",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 17,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "coco vai",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 18,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "tropical",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 19,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "lavanda",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 20,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "cony",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 21,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "vainilla",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 22,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "flores blancas",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 23,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "bubblegum",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 24,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "uva",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 25,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "limon",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 26,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "teakwood",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 27,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "frutilla",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 28,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "due",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 29,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "ghost",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 30,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "pomelo rosado",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 31,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "opium",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 32,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "bad man",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 33,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "pure xs",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 34,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "adventure",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 35,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "cereza malbec",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 36,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "antitabaco",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 37,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "palace",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 38,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "limon dulce y vainilla",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 39,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "new york",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 40,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "male",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 41,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "lucy",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 42,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "olympíc",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 43,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "marino",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 44,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "oriente",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 45,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "beauty",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 46,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "wanted",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 47,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "naranja pimienta",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 48,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "lilas",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 49,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "bella",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 50,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "cristobal",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 51,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "pitanga",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 52,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "paula",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 53,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "apple",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 54,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "man",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 55,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "invicto",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 56,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "polo",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 57,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "flowers",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 58,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "apolo",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 59,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "lady",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 60,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "nina",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 61,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "one millon",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 62,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "tokyo",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 63,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "faren",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 64,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "daniel",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 65,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "blue",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 66,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "guarana",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 67,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "patio",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 68,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "amour",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 69,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "etiqueta",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 70,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "violetas",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 71,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "rosas",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 72,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "indiana",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 73,
+    "marca_producto": "shapirus",
+    "tipo_producto": "textil",
+    "fragancia_producto": "citrus",
+    "uso_producto": "ropa",
+    "precio_producto": 710
+  },
+  {
+    "id_producto": 101,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "vainilla ronka",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 102,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "pomelo rosado",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 103,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "lavanda y te verde",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 104,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "pera y durazno",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 105,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "adventure",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 106,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "bella",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 107,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "wanted",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 108,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "invicto",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 109,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "limon dulce y vainilla",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 110,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "naranja pimienta",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 111,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "palo santo",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 112,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "cristobal",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 113,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "paula",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 114,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "mery",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 115,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "rocio",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 116,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "magnolia y fresia",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 117,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "london",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 118,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "maracuya",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 119,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "indiana",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 120,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "apple",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 121,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "miel y limon",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 122,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "melon",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 123,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "citronella",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 124,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "flowers",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 125,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "marino",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 126,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "manzana canela",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 127,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "violetas",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 128,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "tokyo",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 129,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "nina",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 130,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "damasco",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 131,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "lola",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 132,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "cappuccino",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 133,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "bubblegum",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 134,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "guarana",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 135,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "bebe",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 136,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "papaya",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 137,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "jazz",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 138,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "jazmin",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 139,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "Green",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 140,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "bamboo",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 141,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "verbena",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 142,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "patio",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 143,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "tropical",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 144,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "lavanda",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 145,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "amour",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 146,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "orange",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 147,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "vainilla",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 148,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "uva",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 149,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "peras y flores",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 150,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "oriente",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 151,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "linah",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 152,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "limon",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 153,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "hawai",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 154,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "flores blancas",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 155,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "cony",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 156,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "coco vai",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 157,
+    "marca_producto": "shapirus",
+    "tipo_producto": "varilla difusora",
+    "fragancia_producto": "citrus",
+    "uso_producto": "ambiente",
+    "precio_producto": 990
+  },
+  {
+    "id_producto": 201,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "frambuesa y rosas",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 202,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "lino y peonias",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 203,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "fresias y bergamota",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 204,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "amapola y cerezo",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 205,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "clementina y flores",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 206,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "mountain water",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 207,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "pomelo y menta",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 208,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "mango anana",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 209,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "flor de loto",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 210,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "arandanos y canela",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 211,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "grosellas y nectarina",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 212,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "clean cotton",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 213,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "lima limon",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 214,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "uva y arandanos",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 215,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "apple champagne",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 216,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "fancy dreams",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 217,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "citric wood",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 218,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "mix tropical",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 219,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "vainilla cream",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 220,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "sweet flower",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 221,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "sandia pepino",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 222,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "naranja pomelo",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 223,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "coco maracuya",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 224,
+    "marca_producto": "shapirus",
+    "tipo_producto": "home spray",
+    "fragancia_producto": "breeze",
+    "uso_producto": "ambiente,ropa",
+    "precio_producto": 1360
+  },
+  {
+    "id_producto": 301,
+    "marca_producto": "shapirus",
+    "tipo_producto": "tarjetas aromaticas",
+    "fragancia_producto": "cereza malbec",
+    "uso_producto": "ropa",
+    "precio_producto": 1140
+  },
+  {
+    "id_producto": 302,
+    "marca_producto": "shapirus",
+    "tipo_producto": "tarjetas aromaticas",
+    "fragancia_producto": "lima y menta",
+    "uso_producto": "ropa",
+    "precio_producto": 1140
+  },
+  {
+    "id_producto": 303,
+    "marca_producto": "shapirus",
+    "tipo_producto": "tarjetas aromaticas",
+    "fragancia_producto": "frutos tropicales",
+    "uso_producto": "ropa",
+    "precio_producto": 1140
+  },
+  {
+    "id_producto": 304,
+    "marca_producto": "shapirus",
+    "tipo_producto": "tarjetas aromaticas",
+    "fragancia_producto": "rosas y neroli",
+    "uso_producto": "ropa",
+    "precio_producto": 1140
+  },
+  {
+    "id_producto": 305,
+    "marca_producto": "shapirus",
+    "tipo_producto": "tarjetas aromaticas",
+    "fragancia_producto": "lavanda y manzanilla",
+    "uso_producto": "ropa",
+    "precio_producto": 1140
+  },
+  {
+    "id_producto": 401,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "naranja",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 402,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "frutos rojos",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 403,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "sport",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 404,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "multifruta",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 405,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "manzana",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 406,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "lima limon",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 407,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "caribe",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 408,
+    "marca_producto": "shapirus",
+    "tipo_producto": "caritas",
+    "fragancia_producto": "aqua",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 501,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "naranja frutilla",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 502,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "uva",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 503,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "tutti frutti",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 504,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "tropical",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 505,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "polo",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 506,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "naranja",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 507,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "marino",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 508,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "manzana",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 509,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "frutos rojos",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 510,
+    "marca_producto": "shapirus",
+    "tipo_producto": "route 66",
+    "fragancia_producto": "citrico",
+    "uso_producto": "auto",
+    "precio_producto": 650
+  },
+  {
+    "id_producto": 601,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "cereza malbec",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 602,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "antitabaco",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 603,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "wanted",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 604,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "olympic",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 605,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "male",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 606,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "bella",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 607,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "verbena",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 608,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "vainilla",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 609,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "uva",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 610,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "tropical",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 611,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "rocio",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 612,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "pitanga",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 613,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "paula",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 614,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "papaya",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 615,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "oriente",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 616,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "one millon",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 617,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "mery",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 618,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "marino",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 619,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "magnolia y fresia",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 620,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "lola",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 621,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "linah",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 622,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "limon",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 623,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "lavanda",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 624,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "invicto",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 625,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "hawai",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 626,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "green",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 627,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "flowers",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 628,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "flores blancas",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 629,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "cony",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 630,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "coco vai",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 631,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "citrus",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 632,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "bubblegum",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 633,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "bebe",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 634,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "bamboo",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 635,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "angel",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 636,
+    "marca_producto": "shapirus",
+    "tipo_producto": "aromatizador mini",
+    "fragancia_producto": "amour",
+    "uso_producto": "ropa,ambiente,auto,personal",
+    "precio_producto": 540
+  },
+  {
+    "id_producto": 701,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "vainilla",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 702,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "uva",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 703,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "rocio",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 704,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "manzana verde",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 705,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "limon",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 706,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "lavanda",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 707,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "frutos rojos",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 708,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "flores blancas",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 709,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "coco",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 710,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "chicle",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 711,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "bamboo",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  },
+  {
+    "id_producto": 712,
+    "marca_producto": "shapirus",
+    "tipo_producto": "lata aromatizante",
+    "fragancia_producto": "acqua",
+    "uso_producto": "auto",
+    "precio_producto": 1700
+  }
+]
