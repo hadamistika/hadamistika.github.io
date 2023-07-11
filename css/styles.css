@@ -72,15 +72,37 @@ background: linear-gradient(90deg, rgba(228,194,208,1) 0%, rgba(136,144,181,1) 3
     flex-wrap: wrap;
   }
 
+#filtro-seleccionado{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+} 
   
 .oculto{
     display: none!important;
 }
 
+
 #spinner{
     margin-bottom: 50px;
 }
   
+.mensaje-carrito {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  .mensaje-carrito.mostrar {
+    opacity: 1;
+  }
 
 
 

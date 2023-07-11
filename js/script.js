@@ -1,11 +1,13 @@
 import { crearArticle,crearBotonFiltro } from "../js/cards.js";
 import { getProductosFetch } from "../js/peticiones.js";
 import { Producto } from "../js/producto.js";
+import { AgregarProductoACarrito } from "../js/carrito.js";
 
 const items = document.querySelectorAll(".carousel .carousel-item");
 const itemsProductos = document.querySelectorAll("#collapseProductos .list-group-item");
 const itemsUsos = document.querySelectorAll("#collapseUsos .list-group-item");
 const itemsProductosDropdown = document.querySelectorAll(".dropdown-item");
+const carritoBoton = document.querySelector("#carritoBoton");
 let productos = [];
 let productosFiltrados = [];
 
@@ -56,7 +58,7 @@ obtenerProductos()
       event.preventDefault(); // Evitar el comportamiento predeterminado del enlace
       const tipo = this.textContent; // Obtener el texto del enlace
       productosFiltrados = FiltrarProductosPorTipo(tipo);
-      // crearBotonFiltro(tipo);
+      crearBotonFiltro(tipo);
       crearArticle(productosFiltrados);
   
       // Cerrar el acordeón al hacer clic en un ítem
@@ -75,7 +77,7 @@ obtenerProductos()
       event.preventDefault(); // Evitar el comportamiento predeterminado del enlace
       const uso = this.textContent; // Obtener el texto del enlace
       productosFiltrados = FiltrarProductosPorUso(uso);
-      // crearBotonFiltro(uso);
+      crearBotonFiltro(uso);
       crearArticle(productosFiltrados);
 
       // Cerrar el acordeón al hacer clic en un ítem
@@ -110,6 +112,18 @@ obtenerProductos()
   });
 
 
+  export function AgregarAlCarrito(e){
+    const id= parseInt(e.target.getAttribute("data-id"));
+    console.log(id);
+    AgregarProductoACarrito(id,productos);
+  }
+  export function MostrarMensajeAgregadoAlCarrito(e){
+    mensajeCarrito.classList.add("mostrar");
+    mensajeCarrito.textContent = "¡Agregado al carrito!";
+    setTimeout(function() {
+      mensajeCarrito.classList.remove("mostrar");
+    }, 2000);
+  }
 
 
 

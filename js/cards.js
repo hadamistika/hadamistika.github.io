@@ -1,28 +1,8 @@
-// export const crearArticle = (data) => {
-//     const $seccion = document.getElementById("seccion-cards");
-//     data.forEach((elementoFila) => {
-//         const article = document.createElement("article");
-//         article.classList.add("card", "bg-primary", "text-dark");
-//         article.style.width = "18rem";
-
-//         const cardBody = document.createElement("div");
-//         cardBody.classList.add("card-body");
-
-//         for (const key in elementoFila) {
-//             if (key == "id") continue;
-
-//             const p = document.createElement("p");
-//             p.textContent = key + ": " + elementoFila[key];
-//             cardBody.appendChild(p);
-//         }
-
-//         article.appendChild(cardBody);
-//         $seccion.appendChild(article);
-//     });
-// };
-
+import {AgregarAlCarrito,MostrarMensajeAgregadoAlCarrito} from "../js/script.js";
 const $loader = document.getElementById("spinner");
 const accordionButtons = document.querySelectorAll(".accordion-button"); 
+const mensajeCarrito = document.getElementById("mensajeCarrito");
+
 
 
 
@@ -36,6 +16,7 @@ export const crearArticle = (data) => {
   while ($seccion.firstChild) {
     $seccion.firstChild.remove();
   }
+
   setTimeout(() => {
     $loader.classList.add("oculto");
     data.forEach((elementoFila) => {
@@ -72,6 +53,14 @@ export const crearArticle = (data) => {
       cardButton.href = "#";
       cardButton.classList.add("btn", "btn-secondary", "btn-sm");
       cardButton.textContent = "Agregar Al Carrito";
+      cardButton.addEventListener("click",function(e){
+        e.preventDefault();
+        AgregarAlCarrito(e);
+        MostrarMensajeAgregadoAlCarrito();
+
+      });
+      cardButton.dataset.id = elementoFila.id_producto;
+
 
       cardBody.appendChild(cardTitle);
       cardBody.appendChild(cardPrice);
@@ -80,7 +69,6 @@ export const crearArticle = (data) => {
 
       article.appendChild(cardImg);
       article.appendChild(cardBody);
-
       $seccion.appendChild(article);
     });
     accordionButtons.forEach(button => {
@@ -91,9 +79,10 @@ export const crearArticle = (data) => {
 };
 export const crearBotonFiltro = (filtro) => {
   const $seccion = document.getElementById("filtro-seleccionado");
-
+  while ($seccion.firstChild) {
+    $seccion.firstChild.remove();
+  }
   const $botonFiltro = document.createElement("button");
-  $botonFiltro.id = "boton-filtro";
   $botonFiltro.type = "button";
   $botonFiltro.classList.add("btn", "btn-light");
   $botonFiltro.disabled = true;
