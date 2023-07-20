@@ -98,7 +98,7 @@ obtenerProductos()
       event.preventDefault(); // Evitar el comportamiento predeterminado del enlace
       const tipo = this.textContent; // Obtener el texto del enlace
       productosFiltrados = FiltrarProductosPorTipo(tipo);
-      // crearBotonFiltro(tipo);
+      crearBotonFiltro(tipo);
       crearArticle(productosFiltrados);
     });
   });
@@ -108,6 +108,7 @@ obtenerProductos()
     if (e.target.matches("#boton-limpiar-filtros")) {
       productosFiltrados = FiltrarProductosDestacados();
     crearArticle(productosFiltrados);
+    crearBotonFiltro("Productos Destacados");
     }
   });
 
@@ -148,13 +149,13 @@ function FiltrarProductosPorTipo(tipo){
     case "Tarjetas Aromaticas":
       tipoProducto="tarjetas aromaticas"
       break;
-    case "Aromatizadores Textiles":
+    case "Aromatizadores Textiles": 
       tipoProducto="textil"
       break;
     case "Varillas Difusoras":
       tipoProducto="varilla difusora"
       break;
-    case "Aerosol Ambiente/Automatico":
+    case "Aerosoles Ambiente/Automatico":
       tipoProducto="aerosol"
       break;
     default:

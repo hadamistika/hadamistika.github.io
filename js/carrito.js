@@ -80,13 +80,8 @@ function calcularTotal() {
     .toFixed(2);
 }
 
-/**
- * Varia el carrito y vuelve a dibujarlo
- */
 function vaciarCarrito() {
-  // Limpiamos los productos guardados
   carrito = [];
-  // Renderizamos los cambios
   renderizarCarrito();
 }
 
@@ -95,7 +90,7 @@ const phoneNumber = "+5491132283002";
 
 // Función para generar el mensaje de pedido
 const generarMensajePedido = () => {
-  let mensaje = "Hola soy ... queria hacer un pedido de los siguientes productos:\n";
+  let mensaje = "Hola Hada Mistika!\n Queria hacer un pedido de los siguientes productos:\n";
     carrito.forEach((idProducto) => {
       const productoEncontrado = productos.find((producto) => producto.id_producto === idProducto);
       if (productoEncontrado) {

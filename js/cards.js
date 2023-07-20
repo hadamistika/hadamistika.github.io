@@ -25,14 +25,15 @@ export const crearArticle = (data) => {
       article.style.width = "10em";
 
       const cardImg = document.createElement("img");
-      cardImg.src = "./images/5.jpg";
+      cardImg.src = "./images/textiles_prod.jpg";
+      cardImg.src = AsignarFoto(elementoFila.tipo_producto);
       cardImg.classList.add("card-img-top");
-      cardImg.alt = "...";
+      cardImg.alt = "prod";
 
       const cardBody = document.createElement("div");
       cardBody.classList.add("card-body");
 
-      const cardTitle = document.createElement("h5");
+      const cardTitle = document.createElement("p");
       cardTitle.classList.add("card-title", "text-capitalize");
       cardTitle.textContent = elementoFila.tipo_producto;
 
@@ -45,7 +46,7 @@ export const crearArticle = (data) => {
       );
       cardPrice.textContent = `$${elementoFila.precio_producto}`;
 
-      const cardText = document.createElement("p");
+      const cardText = document.createElement("h5");
       cardText.classList.add("card-text", "text-capitalize");
       cardText.textContent = elementoFila.fragancia_producto;
 
@@ -78,14 +79,41 @@ export const crearArticle = (data) => {
   }, 2000);
 };
 export const crearBotonFiltro = (filtro) => {
-  const $seccion = document.getElementById("filtro-seleccionado");
-  while ($seccion.firstChild) {
-    $seccion.firstChild.remove();
-  }
-  const $botonFiltro = document.createElement("button");
-  $botonFiltro.type = "button";
-  $botonFiltro.classList.add("btn", "btn-light");
-  $botonFiltro.disabled = true;
-  $botonFiltro.textContent = filtro;
-  $seccion.appendChild($botonFiltro);
+  const $titulo = document.getElementById("titulo_productos");
+  $titulo.textContent = filtro;
 };
+ 
+
+function AsignarFoto(tipo){
+  let src;
+  switch (tipo) {
+    case "aromatizador mini":
+      src="./images/textiles_prod.jpg";
+      break;
+    case "caritas":
+      src="./images/caritas_prod.jpg";
+      break;
+    case "home spray":
+      src="./images/home-spray_prod.jpg"
+      break;
+    case "lata aromatizante":
+      src="lata aromatizante"
+      break;
+    case "route 66":
+      src="./images/route66_prod.jpg"
+      break;
+    case "tarjetas aromaticas":
+      src="tarjetas aromaticas"
+      break;
+    case "textil":
+      src="./images/textiles_prod.jpg"
+      break;
+    case "varilla difusora":
+      src="./images/varillas_prod.jpg"
+      break;
+    case "aerosol":
+      src="./images/aerosol_prod.jpg"
+      break;
+  }
+  return src;
+}
